@@ -1,0 +1,19 @@
+{
+  "name": "node_udemy",
+  "version": "1.0.0",
+  "description": "Complete node js guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeetPatel5598/Udemy_Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeetPatel5598/Udemy_Course/issues"
+  },
+  "homepage": "https://github.com/MeetPatel5598/Udemy_Course#readme"
+}
